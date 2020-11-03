@@ -3,19 +3,11 @@
             failures="0"
             tests="1">
 
-  <testsuite name="locatorBasic"
-    errors="0" failures="0" hostname="" id="" package="locatorBasic" skipped="0"
-    tests="1" time="7.938" timestamp="">
+  <testsuite name="bddDescribe"
+    errors="0" failures="0" hostname="" id="" package="bddDescribe" skipped="0"
+    tests="1" time="7.698" timestamp="">
   
-    <testcase name="Demo test ecosia.org" classname="locatorBasic" time="7.938" assertions="5">
-
-    
-
-    
-
-    
-
-    
+    <testcase name="demo test" classname="bddDescribe" time="7.698" assertions="1">
 
     
     </testcase>

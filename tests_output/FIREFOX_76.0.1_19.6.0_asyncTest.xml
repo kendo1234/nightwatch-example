@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="asyncTest"
+    errors="1" failures="0" hostname="" id="" package="asyncTest" skipped="0"
+    tests="1" time="0.000" timestamp="">
+  
+    <testcase name="demo test async" classname="asyncTest" time="0" assertions="0">
+    <error message="Error while running &#34;window&#34; command: POST requests to /window must include a name parameter also." type="error"><![CDATA[
+    Error: Error while running &#34;window&#34; command: POST requests to /window must include a name parameter also.
+    at CommandInstance.command (/Users/kendo/Documents/dev_tools/nightwatchexample/node_modules/nightwatch/lib/api/protocol/window.js:20:17)
+    at /Users/kendo/Documents/dev_tools/nightwatchexample/node_modules/nightwatch/lib/api/_loaders/command.js:158:29
+    ]]></error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+        Error: Error while running &#34;window&#34; command: POST requests to /window must include a name parameter also.
+   
+    </system-err>
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

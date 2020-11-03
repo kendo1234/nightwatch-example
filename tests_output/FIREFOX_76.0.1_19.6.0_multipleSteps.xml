@@ -5,9 +5,9 @@
 
   <testsuite name="multipleSteps"
     errors="0" failures="0" hostname="" id="" package="multipleSteps" skipped="0"
-    tests="2" time="6.485" timestamp="">
+    tests="2" time="7.091" timestamp="">
   
-    <testcase name="step one: navigate to ecosia.org" classname="multipleSteps" time="1.395" assertions="4">
+    <testcase name="step one: navigate to ecosia.org" classname="multipleSteps" time="1.797" assertions="4">
 
     
 
@@ -18,12 +18,17 @@
     
     </testcase>
   
-    <testcase name="step two: click submit" classname="multipleSteps" time="5.090" assertions="1">
+    <testcase name="step two: click submit" classname="multipleSteps" time="5.294" assertions="1">
 
     
     </testcase>
   
 
+  
+    <system-err>
+        Error: Error while running &#34;window&#34; command: POST requests to /window must include a name parameter also.
+   
+    </system-err>
   
 
     
